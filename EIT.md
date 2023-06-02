@@ -1,5 +1,15 @@
 # Hilfreich für EIT Studenten
 
+## anderes
+
+### Docking Stations in der Fachschaft
+
+* Webseite: <https://i-tec.pro/de/produkt/u3hdmidvidock-3/>
+* Treiber:  <https://i-tec.cz/wp-content/uploads/man_dri/DisplayLink_Ubuntu.zip>
+
+
+## Fächer
+
 ### Info 1&2
 
 * `sudo apt install gcc`
