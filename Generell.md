@@ -20,7 +20,6 @@ Von der Webseite [rz.h-ka.de/eduroam](https://rz.h-ka.de/eduroam) das installer 
 
 * [LibreOffice](https://de.libreoffice.org/): nahezu immer vorinstalliert
   
-
 ## Chatprogramme
 
 ### Signal

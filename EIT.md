@@ -7,7 +7,6 @@
 * Webseite: <https://i-tec.pro/de/produkt/u3hdmidvidock-3/>
 * Treiber:  <https://i-tec.cz/wp-content/uploads/man_dri/DisplayLink_Ubuntu.zip>
 
-
 ## Fächer
 
 ### Info 1&2
@@ -31,11 +30,11 @@
 * Python: `sudo apt install python3 python3-numpy python3-scipy python3-matplotlib`
 * OpenModelica: (<https://openmodelica.org/download/download-linux>)
   * requirements: `wget`, `pip`, `tee`
-  1) `echo "deb-src https://build.openmodelica.org/apt stable" | sudo tee -a /etc/apt/sources.list.d/openmodelica.list`
-  2) `wget -q http://build.openmodelica.org/apt/openmodelica.asc -O- | sudo apt-key add -`
-  3) `sudo apt update`
-  4) `sudo apt install openmodelica`
-  5) `python -m pip install -U https://github.com/OpenModelica/OMPython/archive/master.zip`
+  1. `echo "deb-src https://build.openmodelica.org/apt stable" | sudo tee -a /etc/apt/sources.list.d/openmodelica.list`
+  2. `wget -q http://build.openmodelica.org/apt/openmodelica.asc -O- | sudo apt-key add -`
+  3. `sudo apt update`
+  4. `sudo apt install openmodelica`
+  5. `python -m pip install -U https://github.com/OpenModelica/OMPython/archive/master.zip`
 
 ### Elektronik Labor
 
