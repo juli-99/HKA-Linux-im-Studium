@@ -47,3 +47,9 @@
 ### Hochfrequenztechnik
 
 * Keysight ADS: [Download](https://www.keysight.com/de/de/lib/software-detail/computer-software/pathwave-advanced-design-system-ads-software-2212036/ads-2023-linux.html)
+
+### Digitale Signal Prozesoren
+
+* [Matlab](https://de.mathworks.com/support/requirements/matlab-linux.html)
+* alternativ [GNU Octave](https://www.octave.org/)
+  * [signal](https://gnu-octave.github.io/packages/signal/) (dependency: [control](https://gnu-octave.github.io/packages/control/))
