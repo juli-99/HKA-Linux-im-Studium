@@ -20,6 +20,10 @@ Von der Webseite [rz.h-ka.de/eduroam](https://rz.h-ka.de/eduroam) das installer 
 
 * [LibreOffice](https://de.libreoffice.org/): nahezu immer vorinstalliert
   
+## $\LaTeX$
+
+* [TexLive](https://www.tug.org/texlive/quickinstall.html)
+
 ## Chatprogramme
 
 ### Signal
@@ -48,5 +52,3 @@ sudo apt update && sudo apt install signal-desktop
 2. Installieren:
    * **Visuel**: Doppelklick auf das Deb Packet und auf installieren klicken.
    * **Terminal**: im Terminal `sudo apt install "<vollstaendigerPfad>/discord.deb"`
-
----
