@@ -4,8 +4,8 @@
 
 ### Docking Stations in der Fachschaft
 
-* Webseite: <https://i-tec.pro/de/produkt/u3hdmidvidock-3/>
-* Treiber:  <https://i-tec.cz/wp-content/uploads/man_dri/DisplayLink_Ubuntu.zip>
+* [Webseite](https://i-tec.pro/de/produkt/u3hdmidvidock-3/)
+* [Treiber](https://i-tec.cz/wp-content/uploads/man_dri/DisplayLink_Ubuntu.zip)
 
 ## Fächer
 
@@ -15,7 +15,7 @@
 
 ### Gleichstromtechnik
 
-* LTSpice: leider nur mit Wine.
+* LTSpice: leider nur mit [Wine](https://www.winehq.org/).
 * KiCad: (<https://www.kicad.org/download/ubuntu/>)
   * `sudo add-apt-repository --yes ppa:kicad/kicad-7.0-releases`
   * `sudo apt update`
@@ -23,12 +23,15 @@
 
 ### Digitaltechnik/EDS
 
-* Vivado: (<https://www.xilinx.com/support/download.html>)
+* [Vivado](https://www.xilinx.com/support/download.html)
+* Logic-simulator:
+  * [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
+  * [Digital](https://github.com/hneemann/Digital)
 
 ### ModSim
 
 * Python: `sudo apt install python3 python3-numpy python3-scipy python3-matplotlib`
-* OpenModelica: (<https://openmodelica.org/download/download-linux>)
+* [OpenModelica](https://openmodelica.org/download/download-linux):
   * requirements: `wget`, `pip`, `tee`
   1. `echo "deb-src https://build.openmodelica.org/apt stable" | sudo tee -a /etc/apt/sources.list.d/openmodelica.list`
   2. `wget -q http://build.openmodelica.org/apt/openmodelica.asc -O- | sudo apt-key add -`
@@ -42,11 +45,11 @@
 
 ### Regelungstechnik
 
-* Matlab/Simulink: <https://de.mathworks.com/support/requirements/matlab-linux.html>
+* [Matlab/Simulink](https://de.mathworks.com/support/requirements/matlab-linux.html)
 
 ### Hochfrequenztechnik
 
-* Keysight ADS: [Download](https://www.keysight.com/de/de/lib/software-detail/computer-software/pathwave-advanced-design-system-ads-software-2212036/ads-2023-linux.html)
+* [Keysight ADS](https://www.keysight.com/de/de/lib/software-detail/computer-software/pathwave-advanced-design-system-ads-software-2212036/ads-2023-linux.html)
 
 ### Digitale Signal Prozesoren
 
