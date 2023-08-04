@@ -21,12 +21,12 @@ Es gibt drei möglichkeiten diese zu installieren:
 
 * Java: `sudo apt install openjdk-17-jdk`
 * Hexviewer:
-  * `hexdump`
-  * `sudo apt install ghex`
+  * `hexdump` [man](https://man7.org/linux/man-pages/man1/hexdump.1.html)
+  * [GHex](https://gitlab.gnome.org/GNOME/ghex)`sudo apt install ghex`
 
 ### Algorithmen und Datenstrukturen Labor
 
-* Java: `sudo apt install openjdk-17-jdk`
+* [Java](https://openjdk.org): `sudo apt install openjdk-17-jdk`
 
 ### Kommunikationsnetze Vorlesung
 
@@ -41,10 +41,16 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 
 ### Betriebssysteme Labor
 
-* git: `sudo apt isntall git`
-* gcc: `sudo apt isntall gcc`
+* [git](https://git-scm.com/): `sudo apt isntall git`
+* [gcc](https://gcc.gnu.org/): `sudo apt isntall gcc`
 * make: `sudo apt isntall make`
+* [cmake](https://cmake.org/) `sudo apt install cmake`
 
 ### Datenbanken Labor
+
+*[DBeaver](https://dbeaver.io/)
+* optional locale Datenbank:
+  * [PostgreSQL](https://www.postgresql.org)
+  * [MariaDB](https://mariadb.org)
 
 ### Deklarative Programmierung
