@@ -23,6 +23,10 @@ Von der Webseite [rz.h-ka.de/eduroam](https://rz.h-ka.de/eduroam) das installer 
 ## $\LaTeX$
 
 * [TexLive](https://www.tug.org/texlive/quickinstall.html)
+* Eiditor:
+  * [TeXstudio](https://www.texstudio.org/)
+  * [Texmaker](https://www.xm1math.net/texmaker/)
+  * [VSCode Extention](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 
 ## Chatprogramme
 
