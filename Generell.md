@@ -49,6 +49,15 @@ echo 'deb [arch=amd64 signed-by=/usr/share/keyrings/signal-desktop-keyring.gpg] 
 # 3. Update your package database and install signal
 sudo apt update && sudo apt install signal-desktop
 ```
+```bash
+# NOTE: These instuctions are for flatpak
+
+# 1. Add Flathub to Flatpak
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+# 2. Install Signal
+flatpak install flathub org.signal.Signal
+```
 
 ### Discord
 
@@ -56,3 +65,14 @@ sudo apt update && sudo apt install signal-desktop
 2. Installieren:
    * **Visuel**: Doppelklick auf das Deb Packet und auf installieren klicken.
    * **Terminal**: im Terminal `sudo apt install "<vollstaendigerPfad>/discord.deb"`
+
+Alternativ mit [Flatpak](https://flatpak.org/):
+```bash
+# NOTE: These instuctions are for flatpak
+
+# 1. Add Flathub to Flatpak
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+# 2. Install Signal
+flatpak install flathub com.discordapp.Discord
+```
