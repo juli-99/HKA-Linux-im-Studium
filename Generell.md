@@ -10,6 +10,9 @@
 
 Von der Webseite [rz.h-ka.de/eduroam](https://rz.h-ka.de/eduroam) das installer Skript herunterladen und dann ausführen.
 
+## [bwSync&Share](https://bwsyncandshare.kit.edu)
+[bwSync&Share Client](https://customerupdates.nextcloud.com/kk1eoZCTo0kI5HpGE3IT/)
+
 ## PDF Mitschreiben
 
 * Xournal++
