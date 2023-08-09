@@ -33,7 +33,7 @@ Von der Webseite [rz.h-ka.de/eduroam](https://rz.h-ka.de/eduroam) das installer 
 
 ## Chatprogramme
 
-### Signal
+### [Signal](https://signal.org/de/)
 
 * <https://signal.org/download/linux/>
 
@@ -62,7 +62,7 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 flatpak install flathub org.signal.Signal
 ```
 
-### Discord
+### [Discord](https://discord.com/)
 
 1. Downloade das `.deb` Packet von <https://discord.com/download>.
 2. Installieren:
