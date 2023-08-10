@@ -10,16 +10,19 @@
 ## Fächer
 
 ### Info 1&2
-
-* `sudo apt install gcc`
+* C & C++ Compiler:
+  * [GCC](https://gcc.gnu.org/): `sudo apt install gcc`
+* optional IDE:
+  *  [Visual Studio Code](https://code.visualstudio.com/): https://code.visualstudio.com/docs/setup/linux
+  *  [Eclipse](https://www.eclipse.org/downloads/packages/): https://www.eclipse.org/downloads/packages/installer
 
 ### Gleichstromtechnik
 
-* LTSpice: leider nur mit [Wine](https://www.winehq.org/).
-* KiCad: (<https://www.kicad.org/download/ubuntu/>)
-  * `sudo add-apt-repository --yes ppa:kicad/kicad-7.0-releases`
-  * `sudo apt update`
-  * `sudo apt install --install-recommends kicad`
+* [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html):
+  * leider nur mit [Wine](https://www.winehq.org/).
+  * end of support Januar 2023
+* [KiCad](https://www.kicad.org/):
+  * https://www.kicad.org/download/linux/
 
 ### Digitaltechnik/EDS
 
@@ -30,14 +33,20 @@
 
 ### ModSim
 
-* Python: `sudo apt install python3 python3-numpy python3-scipy python3-matplotlib`
+* [Python](https://www.python.org/): `sudo apt install python3 python3-numpy python3-scipy python3-matplotlib`
 * [OpenModelica](https://openmodelica.org/download/download-linux):
   * requirements: `wget`, `pip`, `tee`
-  1. `echo "deb-src https://build.openmodelica.org/apt stable" | sudo tee -a /etc/apt/sources.list.d/openmodelica.list`
-  2. `wget -q http://build.openmodelica.org/apt/openmodelica.asc -O- | sudo apt-key add -`
-  3. `sudo apt update`
-  4. `sudo apt install openmodelica`
-  5. `python -m pip install -U https://github.com/OpenModelica/OMPython/archive/master.zip`
+  ```bash
+  # 1. OpenModelica repository zu APT quellen hinzufügen
+  echo "deb-src https://build.openmodelica.org/apt stable" | sudo tee -a /etc/apt/sources.list.d/openmodelica.list
+  wget -q http://build.openmodelica.org/apt/openmodelica.asc -O- | sudo apt-key add -
+  # 2. Paketquelle "activieren"
+  sudo apt update
+  # 3. OpenModelica installieren
+  sudo apt install openmodelica
+  # 4. OMPython installieren
+  python -m pip install -U https://github.com/OpenModelica/OMPython/archive/master.zip
+  ```
 
 ### Elektronik Labor
 
