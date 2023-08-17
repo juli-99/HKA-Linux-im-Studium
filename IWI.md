@@ -41,9 +41,9 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 
 ### Betriebssysteme Labor
 
-* [git](https://git-scm.com/): `sudo apt isntall git`
-* [gcc](https://gcc.gnu.org/): `sudo apt isntall gcc`
-* make: `sudo apt isntall make`
+* [git](https://git-scm.com/): `sudo apt install git`
+* [gcc](https://gcc.gnu.org/): `sudo apt install gcc`
+* make: `sudo apt install make`
 * [cmake](https://cmake.org/) `sudo apt install cmake`
 
 ### Datenbanken Labor
