@@ -40,7 +40,7 @@
   # 1. OpenModelica repository zu APT quellen hinzufügen
   echo "deb-src https://build.openmodelica.org/apt stable" | sudo tee -a /etc/apt/sources.list.d/openmodelica.list
   wget -q http://build.openmodelica.org/apt/openmodelica.asc -O- | sudo apt-key add -
-  # 2. Paketquelle "activieren"
+  # 2. Paketquelle "aktivieren"
   sudo apt update
   # 3. OpenModelica installieren
   sudo apt install openmodelica
