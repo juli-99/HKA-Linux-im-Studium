@@ -20,7 +20,7 @@
 
 * [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html):
   * leider nur mit [Wine](https://www.winehq.org/).
-  * end of support Januar 2023
+  * eine FOSS alternative ist [ngspice](https://ngspice.sourceforge.io/) welches schon in [KiCad](https://www.kicad.org/) enthalten ist ([KiCad Simulation](https://docs.kicad.org/7.0/de/eeschema/eeschema.html#simulator)).
 * [KiCad](https://www.kicad.org/):
   * https://www.kicad.org/download/linux/
 
