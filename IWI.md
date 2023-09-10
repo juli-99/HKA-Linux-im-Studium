@@ -48,7 +48,7 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 
 ### Datenbanken Labor
 
-*[DBeaver](https://dbeaver.io/)
+* [DBeaver](https://dbeaver.io/)
 * optional locale Datenbank:
   * [PostgreSQL](https://www.postgresql.org)
   * [MariaDB](https://mariadb.org)
