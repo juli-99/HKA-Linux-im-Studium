@@ -50,7 +50,7 @@
 
 ### Elektronik Labor
 
-* Cadance: `ssh -Y n4-caee-01@EIT-CAEE-S02.Hs-Karlsruhe.de`
+* Cadance: `ssh -Y <IZ Kürzel>@EIT-CAEE-S02.Hs-Karlsruhe.de`
 
 ### Regelungstechnik
 
