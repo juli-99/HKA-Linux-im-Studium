@@ -15,9 +15,12 @@ Von der Webseite [rz.h-ka.de/eduroam](https://rz.h-ka.de/eduroam) das installer 
 
 ## PDF Mitschreiben
 
-* Xournal++
+* [Xournal++](https://xournalpp.github.io/)
   * <https://xournalpp.github.io/installation/linux/>
   * `sudo apt install xournalpp`
+
+* [Rnote](https://rnote.flxzt.net/)
+  * [Flatpak](https://flathub.org/apps/com.github.flxzt.rnote)
   
 ## Office Documente
 
