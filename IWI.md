@@ -1,5 +1,11 @@
 # Hilfreich für IWI Studenten
 
+## Generelles
+
+### [Mattermost](https://mattermost.com/)
+
+[installations Anleitung](https://docs.mattermost.com/collaborate/install-desktop-app.html)
+
 ## Fächer
 
 ### Mathe Labor
