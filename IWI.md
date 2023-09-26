@@ -60,3 +60,5 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
   * [MariaDB](https://mariadb.org)
 
 ### Deklarative Programmierung
+
+* [Eclipse JEE](https://www.eclipse.org/downloads/packages/release/2023-09/r/eclipse-ide-enterprise-java-and-web-developers)
