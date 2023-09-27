@@ -66,7 +66,7 @@ flatpak install flathub org.signal.Signal
 ```
 
 ### [Discord](https://discord.com/)
-
+Für Debian Basierte Systeme:
 1. Downloade das `.deb` Packet von <https://discord.com/download>.
 2. Installieren:
    * **Visuel**: Doppelklick auf das Deb Packet und auf installieren klicken.
@@ -79,6 +79,6 @@ Alternativ mit [Flatpak](https://flatpak.org/):
 # 1. Add Flathub to Flatpak
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 
-# 2. Install Signal
+# 2. Install Discord
 flatpak install flathub com.discordapp.Discord
 ```
