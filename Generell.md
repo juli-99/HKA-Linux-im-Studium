@@ -1,6 +1,19 @@
 # Generell
 
-## VPN
+## Hochschulinternes WLAN
+
+### HsKA-8021x
+
+```
+Security:             WPA/WPA2 Enterprise
+Authentication:       Tunneled TLS
+[x] No CA certificate is required
+Inner authentication: MSCHAPv2 (no EAP)
+Username:             <RZ Kürzel>@<Fakultät Kürzel>-wlan.h-ka.de
+Password:             <RZ Password>
+```
+
+### VPN
 
 * AnyConnect:
   * Alternative: `sudo apt install network-manager-vpnc-gnome`
