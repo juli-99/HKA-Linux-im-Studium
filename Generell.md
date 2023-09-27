@@ -4,6 +4,8 @@
 
 ### HsKA-8021x
 
+Die Ankeitung kann unter [`organisieren >> IT & EDV >> Dienste des RZ für Studierende`](https://www.h-ka.de/intern/elektro-und-informationstechnik/organisieren-studierende-fakultaet-eit/it-edv-studierende-fakultaet-eit/dienste-des-rz-fuer-studierende) in dem Internenbereich der [H-KA Webseite](www.h-ka.de) gefunden werden.
+
 ```
 Security:             WPA/WPA2 Enterprise
 Authentication:       Tunneled TLS
