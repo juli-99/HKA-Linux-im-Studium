@@ -62,3 +62,10 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 ### Deklarative Programmierung
 
 * [Eclipse JEE](https://www.eclipse.org/downloads/packages/release/2023-09/r/eclipse-ide-enterprise-java-and-web-developers)
+
+### Computergrafik
+
+* [gcc](https://gcc.gnu.org/): `sudo apt install gcc`
+* make: `sudo apt install make`
+* [cmake](https://cmake.org/) `sudo apt install cmake`
+* [gtest](https://github.com/google/googletest) Bibiliothek.
