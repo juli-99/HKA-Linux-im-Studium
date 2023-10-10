@@ -69,3 +69,7 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 * make: `sudo apt install make`
 * [cmake](https://cmake.org/) `sudo apt install cmake`
 * [gtest](https://github.com/google/googletest) Bibiliothek.
+
+### Parallele Systeme
+
+* [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads?target_os=Linux)
