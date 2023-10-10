@@ -7,6 +7,10 @@
 * [Webseite](https://i-tec.pro/de/produkt/u3hdmidvidock-3/)
 * [Treiber](https://i-tec.cz/wp-content/uploads/man_dri/DisplayLink_Ubuntu.zip)
 
+### Matrix Server
+
+* [Matrix Clients](https://matrix.org/ecosystem/clients/)
+
 ## Fächer
 
 ### Info 1&2
