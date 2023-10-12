@@ -72,6 +72,7 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 
 ### Verteilte Systeme 2
 
+* [git](https://git-scm.com/): `sudo apt install git`
 * [VS Code](https://code.visualstudio.com/)
   * [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 * [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/) 
