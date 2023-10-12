@@ -70,6 +70,12 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 * [cmake](https://cmake.org/) `sudo apt install cmake`
 * [gtest](https://github.com/google/googletest) Bibiliothek.
 
+### Verteilte Systeme 2
+
+* [VS Code](https://code.visualstudio.com/)
+  * [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+* [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/) 
+
 ### Parallele Systeme
 
 * [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads?target_os=Linux)
