@@ -73,9 +73,18 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 ### Verteilte Systeme 2
 
 * [git](https://git-scm.com/): `sudo apt install git`
+
+#### Mit Docker
+
 * [VS Code](https://code.visualstudio.com/)
   * [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-* [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/) 
+* [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/)
+
+#### Ohne Docker
+
+* Python
+  * [redis](https://redis.io/docs/connect/clients/python/https://redis.io/docs/connect/clients/python/)
+  * ([Pipenv](https://pipenv.pypa.io/en/latest/))
 
 ### Parallele Systeme
 
