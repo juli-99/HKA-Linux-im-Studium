@@ -3,7 +3,7 @@
 ## Generelles
 
 ### [Mattermost](https://mattermost.com/)
-
+Direkt im Browser oder
 [installations Anleitung](https://docs.mattermost.com/collaborate/install-desktop-app.html)
 
 ## Fächer
@@ -89,3 +89,12 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 ### Parallele Systeme
 
 * [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads?target_os=Linux)
+
+### ERP-Labor
+
+1) `GUI770Installation_8-80004696.zip` von ILIAS herunterladen und entpacken.
+2) Mit hilfe von `./PlatinGUI-Linux-Installation` installieren.
+3) SAP-GUI starten mit `SAProuter-String` aus `SAP-Verbindungsdaten-Linux-macOS.txt`:
+ ```bash
+~/SAPClients/SAPGUI/bin/guistart <SAProuter-String>
+```
