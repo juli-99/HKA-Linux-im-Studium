@@ -69,3 +69,8 @@
 * [Matlab](https://de.mathworks.com/support/requirements/matlab-linux.html)
 * alternativ [GNU Octave](https://www.octave.org/)
   * [signal](https://gnu-octave.github.io/packages/signal/) (dependency: [control](https://gnu-octave.github.io/packages/control/))
+
+### Bildverarbeitung
+
+* Python
+  * [scikit-image](https://pypi.org/project/scikit-image/) `pip install scikit-image`
