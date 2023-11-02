@@ -82,8 +82,9 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 
 #### Ohne Docker
 
+* [Redis](https://redis.io/docs/install/install-redis/install-redis-on-linux/)
 * Python
-  * [redis](https://redis.io/docs/connect/clients/python/https://redis.io/docs/connect/clients/python/)
+  * [Redis](https://redis.io/docs/connect/clients/python/)
   * ([Pipenv](https://pipenv.pypa.io/en/latest/))
 
 ### Parallele Systeme
