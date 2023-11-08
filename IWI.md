@@ -84,6 +84,7 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 
 * [Redis](https://redis.io/docs/install/install-redis/install-redis-on-linux/)
 * Python
+  * [RPyC](https://rpyc.readthedocs.io/en/latest/) `pip install rpyc`
   * [Redis](https://redis.io/docs/connect/clients/python/)
   * ([Pipenv](https://pipenv.pypa.io/en/latest/))
 
