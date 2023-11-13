@@ -74,3 +74,9 @@
 
 * Python
   * [scikit-image](https://pypi.org/project/scikit-image/) `pip install scikit-image`
+ 
+### FEM
+
+* Python
+  * [NumPy](https://numpy.org/)
+  * [Matplotlib](https://matplotlib.org/)
