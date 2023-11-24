@@ -13,14 +13,16 @@
 
 ## Fächer
 
-### Info 1&2
+### Semester 1
+
+#### Info 1&2
 * C & C++ Compiler:
   * [GCC](https://gcc.gnu.org/): `sudo apt install gcc`
 * optional IDE:
   *  [Visual Studio Code](https://code.visualstudio.com/): https://code.visualstudio.com/docs/setup/linux
   *  [Eclipse](https://www.eclipse.org/downloads/packages/): https://www.eclipse.org/downloads/packages/installer
 
-### Gleichstromtechnik
+#### Gleichstromtechnik
 
 * [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html):
   * leider nur mit [Wine](https://www.winehq.org/).
@@ -28,14 +30,16 @@
 * [KiCad](https://www.kicad.org/):
   * https://www.kicad.org/download/linux/
 
-### Digitaltechnik/EDS
+#### Digitaltechnik
 
 * [Vivado](https://www.xilinx.com/support/download.html)
 * Logic-simulator:
   * [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
   * [Digital](https://github.com/hneemann/Digital)
 
-### ModSim
+### Semester 3
+
+#### ModSim
 
 * [Python](https://www.python.org/): `sudo apt install python3 python3-numpy python3-scipy python3-matplotlib`
 * [OpenModelica](https://openmodelica.org/download/download-linux):
@@ -52,30 +56,36 @@
   python -m pip install -U https://github.com/OpenModelica/OMPython/archive/master.zip
   ```
 
-### Elektronik Labor
+#### Elektronik Labor
 
 * Cadance: `ssh -Y <IZ Kürzel>@EIT-CAEE-S02.Hs-Karlsruhe.de`
 
-### Regelungstechnik
+#### Regelungstechnik
 
 * [Matlab/Simulink](https://de.mathworks.com/support/requirements/matlab-linux.html)
 
-### Hochfrequenztechnik
+### Semester X
+
+### EDS
+
+Siehe [Digitaltechnik](#Digitaltechnik).
+
+#### Hochfrequenztechnik
 
 * [Keysight ADS](https://www.keysight.com/de/de/lib/software-detail/computer-software/pathwave-advanced-design-system-ads-software-2212036/ads-2023-linux.html)
 
-### Digitale Signal Prozesoren
+#### Digitale Signal Prozesoren
 
 * [Matlab](https://de.mathworks.com/support/requirements/matlab-linux.html)
 * alternativ [GNU Octave](https://www.octave.org/)
   * [signal](https://gnu-octave.github.io/packages/signal/) (dependency: [control](https://gnu-octave.github.io/packages/control/))
 
-### Bildverarbeitung
+#### Bildverarbeitung
 
 * Python
   * [scikit-image](https://pypi.org/project/scikit-image/) `pip install scikit-image`
  
-### FEM
+#### FEM
 
 * Python
   * [NumPy](https://numpy.org/)
