@@ -66,7 +66,7 @@
 
 ### Semester X
 
-### EDS
+#### EDS
 
 Siehe [Digitaltechnik](#Digitaltechnik).
 
