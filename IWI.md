@@ -92,6 +92,14 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 
 * [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads?target_os=Linux)
 
+### Softwareengeneering
+
+* [Together](https://www.microfocus.com/de-de/products/together/overview) Per vorgegebene Anleitung.
+  * ging direkt mit `OpenJDK 17`
+  * `Together.ini` musste angepasst werden.
+    * `-XX:MaxPermSize=256m` entfernt
+    * `equinox` Plugin Version musste angepasst werden
+
 ### ERP-Labor
 
 1) `GUI770Installation_8-80004696.zip` von ILIAS herunterladen und entpacken.
