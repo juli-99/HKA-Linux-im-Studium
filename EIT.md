@@ -81,8 +81,12 @@ Siehe [Digitaltechnik](#Digitaltechnik).
   * [signal](https://gnu-octave.github.io/packages/signal/) (dependency: [control](https://gnu-octave.github.io/packages/control/))
 * Eclipse:
   1. [J-Link](https://www.segger.com/downloads/jlink/) installieren
-  2. `arm-none-eabi-gcc-cs`, `arm-none-eabi-newlib` & `arm-none-eabi-gdb` installierenn
+  2. `arm-none-eabi-gcc-cs`, `arm-none-eabi-gcc-cs-c++`, `arm-none-eabi-newlib` & `arm-none-eabi-gdb` installierenn
   3. Aktuelle [Eclipse IDE for Embedded C/C++ Developers](https://www.eclipse.org/downloads/packages/release/2023-12/r/eclipse-ide-embedded-cc-developers) installieren
+  4. In Eclipse
+     1. `File >> Open Project from File System >> Archive` den beispiel Code öffnen
+     2.  `Run configurations` anpassen. `GDB SEGGER J-Link Debugging` auswählen und in Unterordner bei `C/C++ Application` das `\` zu einem `/` ändern
+  5. Jetzt sollte alles gehen  
   
     
 
