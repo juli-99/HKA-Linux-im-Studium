@@ -79,6 +79,12 @@ Siehe [Digitaltechnik](#Digitaltechnik).
 * [Matlab](https://de.mathworks.com/support/requirements/matlab-linux.html)
 * alternativ [GNU Octave](https://www.octave.org/)
   * [signal](https://gnu-octave.github.io/packages/signal/) (dependency: [control](https://gnu-octave.github.io/packages/control/))
+* Eclipse:
+  1. [J-Link](https://www.segger.com/downloads/jlink/) installieren
+  2. `arm-none-eabi-gcc-cs`, `arm-none-eabi-newlib` & `arm-none-eabi-gdb` installierenn
+  3. Aktuelle [Eclipse IDE for Embedded C/C++ Developers](https://www.eclipse.org/downloads/packages/release/2023-12/r/eclipse-ide-embedded-cc-developers) installieren
+  
+    
 
 #### Bildverarbeitung
 
