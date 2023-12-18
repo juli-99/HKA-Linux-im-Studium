@@ -108,3 +108,7 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
  ```bash
 ~/SAPClients/SAPGUI/bin/guistart <SAProuter-String>
 ```
+
+ABAB:
+Angeblich nicht für Linux ferfügbar funktioniert aber Problemlos.
+Einfach den Tutorials folgen.
