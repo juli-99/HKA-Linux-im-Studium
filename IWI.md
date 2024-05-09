@@ -8,7 +8,9 @@ Direkt im Browser oder
 
 ## Fächer
 
-### Mathe Labor
+### Semester 1
+
+#### Mathe Labor
 
 Python mit Libraries (numpy, sympy, mpmath und Matplotlib) und Jupyter Notebooks.
 Es gibt drei möglichkeiten diese zu installieren:
@@ -23,36 +25,40 @@ Es gibt drei möglichkeiten diese zu installieren:
    * `pip install numpy sympy mpmath matplotlib`
    * `pip install jupyterlab`
 
-### Programieren
+#### Programieren
 
 * Java: `sudo apt install openjdk-17-jdk`
 * Hexviewer:
   * `hexdump` [man](https://man7.org/linux/man-pages/man1/hexdump.1.html)
   * [GHex](https://gitlab.gnome.org/GNOME/ghex)`sudo apt install ghex`
 
-### Algorithmen und Datenstrukturen Labor
+### Semester 2
+
+#### Algorithmen und Datenstrukturen Labor
 
 * [Java](https://openjdk.org): `sudo apt install openjdk-17-jdk`
 
-### Kommunikationsnetze Vorlesung
+### Semester 3
+
+#### Kommunikationsnetze 1 Vorlesung
 
 * telnet
 * [Wireshark](https://www.wireshark.org/): `sudo apt install wireshark`
 
-### Kommunikationsnetze Labor
+#### Kommunikationsnetze 1 Labor
 
 Benutze die gegbene VM alles andere ist deutlich komplizierter.
 
 * [VirtualBox](https://www.virtualbox.org/): `sudo apt install virtualbox`
 
-### Betriebssysteme Labor
+#### Betriebssysteme Labor
 
 * [git](https://git-scm.com/): `sudo apt install git`
 * [gcc](https://gcc.gnu.org/): `sudo apt install gcc`
 * make: `sudo apt install make`
 * [cmake](https://cmake.org/) `sudo apt install cmake`
 
-### Datenbanken Labor
+#### Datenbanken Labor
 
 * [DBeaver](https://dbeaver.io/)
 * optional locale Datenbank:
@@ -68,24 +74,26 @@ alternativ
 * node module [xslt3](https://www.npmjs.com/package/xslt3)
 * optional VS Code mit [XSLT/XPath extention](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath)
 
-### Computergrafik
+### Semester 5
+
+#### Computergrafik
 
 * [gcc](https://gcc.gnu.org/): `sudo apt install gcc`
 * make: `sudo apt install make`
 * [cmake](https://cmake.org/) `sudo apt install cmake`
 * [gtest](https://github.com/google/googletest) Bibiliothek.
 
-### Verteilte Systeme 2
+#### Verteilte Systeme 2
 
 * [git](https://git-scm.com/): `sudo apt install git`
 
-#### Mit Docker
+##### Mit Docker
 
 * [VS Code](https://code.visualstudio.com/)
   * [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 * [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/)
 
-#### Ohne Docker
+##### Ohne Docker
 
 * [Redis](https://redis.io/docs/install/install-redis/install-redis-on-linux/)
 * Python
@@ -93,11 +101,7 @@ alternativ
   * [Redis](https://redis.io/docs/connect/clients/python/)
   * ([Pipenv](https://pipenv.pypa.io/en/latest/))
 
-### Parallele Systeme
-
-* [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads?target_os=Linux)
-
-### Softwareengeneering
+#### Softwareengeneering
 
 * [Together](https://www.microfocus.com/de-de/products/together/overview) Per vorgegebene Anleitung.
   * ging direkt mit `OpenJDK 17`
@@ -105,7 +109,7 @@ alternativ
     * `-XX:MaxPermSize=256m` entfernt
     * `equinox` Plugin Version musste angepasst werden
 
-### ERP-Labor
+#### ERP-Labor
 
 1) `GUI770Installation_8-80004696.zip` von ILIAS herunterladen und entpacken.
 2) Mit hilfe von `./PlatinGUI-Linux-Installation` installieren.
@@ -117,3 +121,9 @@ alternativ
 ABAB:
 Angeblich nicht für Linux ferfügbar funktioniert aber Problemlos.
 Einfach den Tutorials folgen.
+
+### Wahlfächer
+
+#### Parallele Systeme
+
+* [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads?target_os=Linux)
