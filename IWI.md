@@ -63,6 +63,11 @@ Benutze die gegbene VM alles andere ist deutlich komplizierter.
 
 * [Eclipse JEE](https://www.eclipse.org/downloads/packages/release/2023-09/r/eclipse-ide-enterprise-java-and-web-developers)
 
+alternativ
+
+* node module [xslt3](https://www.npmjs.com/package/xslt3)
+* optional VS Code mit [XSLT/XPath extention](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath)
+
 ### Computergrafik
 
 * [gcc](https://gcc.gnu.org/): `sudo apt install gcc`
