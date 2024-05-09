@@ -15,12 +15,6 @@ Username:             <RZ Kürzel>@<Fakultät Kürzel>-wlan.h-ka.de
 Password:             <RZ Password>
 ```
 
-### VPN
-
-* AnyConnect:
-  * Alternative: `sudo apt install network-manager-vpnc-gnome`
-  * Offiziel (nicht getestet): <https://www.cisco.com/c/de_de/support/docs/smb/routers/cisco-rv-series-small-business-routers/Kmgmt-785-AnyConnect-Linux-Ubuntu.html>
-
 ## [eduroam](https://eduroam.org/)
 
 Von der Webseite [rz.h-ka.de/eduroam](https://rz.h-ka.de/eduroam) das installer Skript herunterladen und dann ausführen.
