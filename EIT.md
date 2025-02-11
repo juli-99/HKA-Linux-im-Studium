@@ -12,8 +12,12 @@
 * [Matrix Clients](https://matrix.org/ecosystem/clients/)
 
 ## Fächer
-
+<details>
+<summary>
+ 
 ### Semester 1
+
+</summary>
 
 #### Info 1&2
 * C & C++ Compiler:
@@ -37,7 +41,14 @@
   * [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)
   * [Digital](https://github.com/hneemann/Digital)
 
+</details>
+
+<details>
+<summary>
+ 
 ### Semester 3
+
+</summary>
 
 #### ModSim
 
@@ -64,7 +75,14 @@
 
 * [Matlab/Simulink](https://de.mathworks.com/support/requirements/matlab-linux.html)
 
+</details>
+
+<details>
+ <summary>
+  
 ### Semester X
+
+</summary>
 
 #### EDS
 
@@ -94,6 +112,15 @@ Siehe [Digitaltechnik](#Digitaltechnik).
 
 * Python
   * [scikit-image](https://pypi.org/project/scikit-image/) `pip install scikit-image`
+
+</details>
+
+<details>
+<summary>
+ 
+### Wahlfächer
+
+</summary>
  
 #### FEM
 
@@ -101,3 +128,4 @@ Siehe [Digitaltechnik](#Digitaltechnik).
   * [NumPy](https://numpy.org/)
   * [Matplotlib](https://matplotlib.org/)
   * [MeshPy](https://documen.tician.de/meshpy/index.html) [pip](https://pypi.org/project/MeshPy/) `pip install MeshPy`
+</details>
