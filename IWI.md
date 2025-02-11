@@ -16,7 +16,7 @@ Direkt im Browser oder
 
 #### Mathe Labor
 
-Python mit Libraries (numpy, sympy, mpmath und Matplotlib) und Jupyter Notebooks.
+[Python](https://www.python.org/) mit Libraries ([numpy](https://numpy.org/), [sympy](https://www.sympy.org), mpmath und [Matplotlib](https://matplotlib.org/)) und [Jupyter Notebooks](https://jupyter.org/).  
 Es gibt drei möglichkeiten diese zu installieren:
 
 1. Über [Anaconda](https://www.anaconda.com/) wie in der Labor Anleitung beschrieben.
@@ -89,6 +89,12 @@ alternativ
 
 * node module [xslt3](https://www.npmjs.com/package/xslt3)
 * optional VS Code mit [XSLT/XPath extention](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath)
+
+### Maschinelles Lernen
+
+* [Python](https://www.python.org/) und [Jupyter Notebooks](https://jupyter.org/), siehe [Mathe Labor](#mathe-labor)
+* zusätzlich [Pandas](https://pandas.pydata.org/) und [scikit-learn](https://scikit-learn.org/stable/) installieren
+
 </details>
 
 <details>
