@@ -156,4 +156,9 @@ Einfach den Tutorials folgen.
 
 * [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads?target_os=Linux)
 
+#### Ethical Hacking
+
+* [Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
+* [VirtualBox](https://www.virtualbox.org/): `sudo apt install virtualbox`
+
 </details>
