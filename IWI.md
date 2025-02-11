@@ -7,8 +7,12 @@ Direkt im Browser oder
 [installations Anleitung](https://docs.mattermost.com/collaborate/install-desktop-app.html)
 
 ## Fächer
-
-### Semester 1
+<details>
+<summary>
+  
+  ### Semester 1
+  
+</summary>
 
 #### Mathe Labor
 
@@ -31,14 +35,26 @@ Es gibt drei möglichkeiten diese zu installieren:
 * Hexviewer:
   * `hexdump` [man](https://man7.org/linux/man-pages/man1/hexdump.1.html)
   * [GHex](https://gitlab.gnome.org/GNOME/ghex)`sudo apt install ghex`
+</details>
 
-### Semester 2
+<details>
+<summary>
+  
+  ### Semester 2
+  
+</summary>
 
 #### Algorithmen und Datenstrukturen Labor
 
 * [Java](https://openjdk.org): `sudo apt install openjdk-17-jdk`
+</details>
 
-### Semester 3
+<details>
+<summary>
+  
+  ### Semester 3
+  
+</summary>
 
 #### Kommunikationsnetze 1 Vorlesung
 
@@ -73,8 +89,14 @@ alternativ
 
 * node module [xslt3](https://www.npmjs.com/package/xslt3)
 * optional VS Code mit [XSLT/XPath extention](https://marketplace.visualstudio.com/items?itemName=deltaxml.xslt-xpath)
+</details>
 
-### Semester 5
+<details>
+<summary>
+  
+  ### Semester 5
+  
+</summary>
 
 #### Computergrafik
 
@@ -121,9 +143,17 @@ alternativ
 ABAB:
 Angeblich nicht für Linux ferfügbar funktioniert aber Problemlos.
 Einfach den Tutorials folgen.
+</details>
 
-### Wahlfächer
+<details>
+<summary>
+  
+  ### Wahlfächer
+  
+</summary>
 
 #### Parallele Systeme
 
 * [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads?target_os=Linux)
+
+</details>
