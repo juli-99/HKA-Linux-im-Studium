@@ -100,6 +100,20 @@ alternativ
 <details>
 <summary>
   
+  ### Semester 4
+  
+</summary>
+
+#### Praxisvorbereitung
+
+Siehe [LaTeX](#latex) in [Generell](#generell).
+
+
+</details>
+
+<details>
+<summary>
+  
   ### Semester 5
   
 </summary>
