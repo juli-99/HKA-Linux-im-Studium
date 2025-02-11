@@ -106,7 +106,7 @@ alternativ
 
 #### Praxisvorbereitung
 
-Siehe [LaTeX](#latex) in [Generell](#generell).
+Siehe [LaTeX](Generell.md#latex) in [Generell](Generell.md).
 
 
 </details>
