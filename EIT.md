@@ -104,7 +104,10 @@ Siehe [Digitaltechnik](#Digitaltechnik).
   4. In Eclipse
      1. `File >> Open Project from File System >> Archive` den beispiel Code öffnen
      2.  `Run configurations` anpassen. `GDB SEGGER J-Link Debugging` auswählen und in Unterordner bei `C/C++ Application` das `\` zu einem `/` ändern
-  5. Jetzt sollte alles gehen  
+  5. Jetzt sollte alles gehen
+
+* VisualStudio Code  
+   Konfiguration https://github.com/Jan-3007/DSP_lab
   
     
 
