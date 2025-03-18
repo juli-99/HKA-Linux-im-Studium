@@ -68,7 +68,7 @@
   ```
 
 #### Elektronik Labor
-
+* sicherstellen das man sich im Hochschulnetz befindet (per VPN oder HsKA-8021x)
 * Cadance: `ssh -Y <IZ Kürzel>@EIT-CAEE-S02.Hs-Karlsruhe.de`
 
 #### Regelungstechnik
