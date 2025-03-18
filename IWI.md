@@ -17,7 +17,7 @@ Direkt im Browser oder
 #### Mathe Labor
 
 [Python](https://www.python.org/) mit Libraries ([numpy](https://numpy.org/), [sympy](https://www.sympy.org), mpmath und [Matplotlib](https://matplotlib.org/)) und [Jupyter Notebooks](https://jupyter.org/).  
-Es gibt drei möglichkeiten diese zu installieren:
+Es gibt drei Möglichkeiten diese zu installieren:
 
 1. Über [Anaconda](https://www.anaconda.com/) wie in der Labor Anleitung beschrieben.
 2. Über den Packetmanager der Distribution.
