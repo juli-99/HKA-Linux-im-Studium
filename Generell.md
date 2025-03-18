@@ -45,6 +45,10 @@ Von der Webseite [rz.h-ka.de/eduroam](https://rz.h-ka.de/eduroam) das installer 
 
 ## Chatprogramme
 
+### [Zoom](https://www.zoom.com/)
+
+Am einfachste im Browser nutzen ansonsten den [Linux Client](https://zoom.us/support/down4j) installieren.
+
 ### [Signal](https://signal.org/de/)
 
 * <https://signal.org/download/linux/>
