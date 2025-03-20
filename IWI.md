@@ -168,6 +168,21 @@ Einfach den Tutorials folgen.
 <details>
 <summary>
   
+  ### Semester 6
+  
+</summary>
+
+### Autonome Systeme
+Programmiersprache: [Go](https://go.dev/)  
+* Über den [Packetmanager](https://repology.org/project/go/versions) (meist als golang)
+* [Manuell](https://go.dev/doc/install)
+Optional [Go VSCode extention](https://marketplace.visualstudio.com/items?itemName=golang.Go)
+
+</details>
+
+<details>
+<summary>
+  
   ### Wahlfächer
   
 </summary>
