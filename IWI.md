@@ -176,6 +176,7 @@ Einfach den Tutorials folgen.
 Programmiersprache: [Go](https://go.dev/)  
 * Über den [Packetmanager](https://repology.org/project/go/versions) (meist als golang)
 * [Manuell](https://go.dev/doc/install)
+
 Optional [Go VSCode extention](https://marketplace.visualstudio.com/items?itemName=golang.Go)
 
 </details>
