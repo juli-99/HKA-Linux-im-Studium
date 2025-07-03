@@ -179,6 +179,14 @@ Programmiersprache: [Go](https://go.dev/)
 
 Optional [Go VSCode extention](https://marketplace.visualstudio.com/items?itemName=golang.Go)
 
+### Embedded Software
+Programmiersprache: C/C++
+* [gcc](https://gcc.gnu.org/)
+* [Google Benchmark](https://github.com/google/benchmark)
+* [hyperfine](https://github.com/sharkdp/hyperfine) Terminal Laufzeitmessung
+* `perf` profiler
+  * optionale GUI: [Hotspot](https://github.com/KDAB/hotspot)
+
 </details>
 
 <details>
