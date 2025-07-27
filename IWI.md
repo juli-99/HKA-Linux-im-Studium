@@ -205,4 +205,27 @@ Programmiersprache: C/C++
 * [Kali Linux](https://www.kali.org/get-kali/#kali-platforms)
 * [VirtualBox](https://www.virtualbox.org/): `sudo apt install virtualbox`
 
+#### Echtzeitgrafik
+
+* Dependencies (Fedora): `dnf install glew glfw-devel glm-devel assimp-devel`
+* [RenderDoc](https://renderdoc.org/) `dnf install renderdoc`
+
+Change dependencys in CMakeLists.txt (l.43) from  
+```cmake
+set(LIBS glfw3 opengl32 assimp glew32s freetype STB_IMAGE)
+```  
+to  
+```cmake
+if(WIN32)
+	set(LIBS glfw3 opengl32 assimp glew32s freetype STB_IMAGE)
+else()
+	set(LIBS glfw GL assimp GLEW freetype STB_IMAGE)
+endif()
+```
+
+##### Fedora 42 Probleme
+
+* noch mehr dependencys `sudo dnf install libdecor libdecor-devel`
+* Programme müssen auf diese Weise gestartet werden `env XDG_SESSION_TYPE=x11 ./06RotatingCube`
+
 </details>
